@@ -1,0 +1,31 @@
+[
+    {
+        "CustomerID": 101,
+        "Name": "Tej",
+        "Age": 23,
+        
+        "Gender": "Male",
+        "Income": 45000,
+        "Purchases": 12,
+        "Churn": 0
+    },
+    {
+        "CustomerID": 102,
+        "Name": "Vandita",
+        "Age": 25,
+        "Gender": "Female",
+        "Income": 55000,
+        "Purchases": 8,
+        "Churn": 1
+    },
+    {
+        "CustomerID": 103,
+        "Name": "Diya",
+        "Age": 23,
+        "Gender": "Female",
+        "Income": 65000,
+        "Purchases": 20,
+        "Churn": 0
+    }
+
+]

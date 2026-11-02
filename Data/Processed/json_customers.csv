@@ -1,0 +1,4 @@
+CustomerID,Name,Age,Gender,Income,Purchases,Churn
+101,Tej,23,Male,45000,12,0
+102,Vandita,25,Female,55000,8,1
+103,Diya,23,Female,65000,20,0
