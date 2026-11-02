@@ -31,7 +31,7 @@
 | | |
 |---|---|
 | **Project type** | Data Analyst practical assignment (Python / Data Science) |
-| **Author** | Dev Rathod |
+| **Author** | Tej Patel |
 | **Repository** | `data-profiler-data-preprocessing` |
 | **Main folder** | `Data-Profiler/` |
 | **Environment** | VS Code · Python · Jupyter Notebook · Git · GitHub |
