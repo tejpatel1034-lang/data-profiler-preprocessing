@@ -613,6 +613,6 @@ Multi-source data acquisition · data-quality assessment · column-aware cleanin
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<sub>Data Profiler · Tej Patel</sub>
+<sub>Data Profiler · Tej Patel </sub>
 
 </div>
