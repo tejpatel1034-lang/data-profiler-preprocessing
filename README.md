@@ -583,15 +583,9 @@ Multi-source data acquisition · data-quality assessment · column-aware cleanin
 *Data Analyst · Python*
 
 <!-- Add verified profile links only, e.g.:
-[![GitHub](https://img.shields.io/badge/GitHub-profile-6366F1?style=flat-square&logo=github&logoColor=white&labelColor=0B1120)](https://github.com/YOUR_USERNAME) -->
+[![GitHub](https://img.shields.io/badge/GitHub-profile-6366F1?style=flat-square&logo=github&logoColor=white&labelColor=0B1120)](https://github.com/tejpatel1034-lang) -->
 
 </div>
-
----
-
-## 📄 License
-
-A `LICENSE` file is part of the planned structure, but the license type has **not been specified yet**. Add the chosen license text to `LICENSE` and update this section. Check the dataset's own terms separately.
 
 ---
 
